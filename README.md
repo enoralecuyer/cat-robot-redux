@@ -27,5 +27,9 @@ A new version of cat-robot-app with React + Redux! Images automatically generate
 
 ## Author
 
-**Enora Lecuyer** 
+Enora Lecuyer
+
+## License
+
+MIT License
 
