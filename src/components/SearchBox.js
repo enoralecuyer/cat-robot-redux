@@ -6,7 +6,7 @@ const SearchBox = ({ searchfield, searchChange }) => {
       <input
         className='pa3 ba br3'
         type='search'
-        placeholder='search cat robot'
+        placeholder='search for name of a cat'
         onChange={searchChange}
       />
     </div>
